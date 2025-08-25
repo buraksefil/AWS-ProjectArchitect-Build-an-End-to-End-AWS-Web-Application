@@ -2,4 +2,4 @@
 
 ## Architecture
 
-![Architecture Diagram](assets/architecture.png)
+![Architecture Diagram](architecture.png)
